@@ -54,6 +54,7 @@
     <LogoAsli />
     <section class="text">
       <h2>Administrasi Surat dan Laporan Informasi</h2>
+      <br />
       <p>
         Sampaikan laporan Anda langsung kepada instansi pemerintah berwenang
       </p>
