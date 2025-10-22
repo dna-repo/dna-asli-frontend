@@ -53,7 +53,7 @@
     <!-- start section text besar -->
     <LogoAsli />
     <section class="text">
-      <h2>Administrasi Surat dan Laporan Informasi</h2>
+      <h2>Administrasi Surat dan Informasi Penanganan</h2>
       <br />
       <p>
         Sampaikan laporan Anda langsung kepada instansi pemerintah berwenang
