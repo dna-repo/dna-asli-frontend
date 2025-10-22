@@ -89,8 +89,9 @@ export default createStore({
       "BADAN KESATUAN BANGSA",
     ],
     common: {
-      //      baseUrl: "http://127.0.0.1:3030",
-      baseUrl: "http://103.193.177.238:3030",
+      // baseUrl: "http://127.0.0.1:3030",
+      baseUrl: "http://103.23.198.171:3030",
+      // baseUrl: "http://103.193.177.238:3030",
       // baseUrl: "http://backend-ins.hadig.my.id:3030",
       headers: "",
       public: "123456789",
