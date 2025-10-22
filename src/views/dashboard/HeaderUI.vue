@@ -2,7 +2,16 @@
   <header>
     <!-- start jika bukan mobile -->
     <div class="non-mobile">
-      <h1>{{ this.$store.state.app_name }}</h1>
+      <!-- <h1>{{ this.$store.state.app_name }}</h1> -->
+      <div>
+        <router-link to="/beranda">
+          <img
+            style="width: 90px; margin: 1rem 2rem; cursor: pointer"
+            src="../../../public/asli.png"
+            alt=""
+          />
+        </router-link>
+      </div>
       <ul>
         <li>
           <router-link to="/beranda"><p>BERANDA</p></router-link>

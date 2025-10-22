@@ -1,6 +1,6 @@
 <template>
   <div class="main" style="position: relative; z-index: 99">
-    <section class="logo">
+    <!-- <section class="logo">
       <div class="pl">
         <img class="paluta" :src="asli_motion.logo" alt="" />
       </div>
@@ -11,8 +11,8 @@
         <img class="fire" :src="asli_motion.fire" alt="" />
         <img class="fire-i" :src="asli_motion.i" alt="" />
       </div>
-    </section>
-    <div
+    </section> -->
+    <!-- <div
       class="line"
       style="
         width: 500px;
@@ -22,7 +22,7 @@
         z-index: 999;
         background-color: aliceblue;
       "
-    ></div>
+    ></div> -->
   </div>
 </template>
 
@@ -56,7 +56,7 @@ export default {
   justify-content: center;
   align-items: center;
   margin: 2rem 0;
-  min-height: 120px;
+  /* min-height: 20px; */
 }
 
 section {
